@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aisyahcch
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning in Polytechnic LP3I Jakarta
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web developer and backend engineer
+- 🌱 I’m currently looking for job
 - 📫 How to reach caaisyah2@gmail.com
 
 <!---
